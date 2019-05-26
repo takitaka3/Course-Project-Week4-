@@ -1,0 +1,149 @@
+---
+title: "README"
+author: "Takitaka3"
+date: "May 26, 2019"
+output: html_document
+---
+
+# Codebook-Course Project Week4
+
+1. subject : from 1 to 30
+   
+2. activity names : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
+3. time domain signals of body acceleration in mean value on the x axis    
+
+4. time domain signals of body acceleration in mean value on the y axis            
+
+5. time domain signals of body acceleration in mean value on the z axis            
+
+6. time domain signals of body acceleration in standard deviation value on the x axis          
+
+7. time domain signals of body acceleration in standard deviation value on the y axis          
+
+8. time domain signals of body acceleration in standard deviation value on the z axis          
+
+9. time domain signals of gravity acceleration  in mean value on the x axis        
+
+10. time domain signals of gravity acceleration  in mean value on the y axis        
+
+11. time domain signals of gravity acceleration  in mean value on the z axis        
+
+12. time domain signals of gravity acceleration  in standard deviation value on the x axis      
+
+13. time domain signals of gravity acceleration  in standard deviation value on the y axis      
+
+14. time domain signals of gravity acceleration  in standard deviation value on the z axis  
+
+15. time domain signals of body acceleration jerk in mean value on the x axis  
+
+16. time domain signals of body acceleration jerk in mean value on the y axis  
+
+17. time domain signals of body acceleration jerk in mean value on the z axis  
+
+18. time domain signals of body acceleration jerk in standard deviation value on the x axis 
+
+19. time domain signals of body acceleration jerk in standard deviation value on the y axis 
+
+20. time domain signals of body acceleration jerk in standard deviation value on the z axis 
+
+21. time domain signals of body angular velocity in mean value on the x axis   
+
+22. time domain signals of body angular velocity in mean value on the y axis   
+
+23. time domain signals of body angular velocity in mean value on the z axis   
+
+24. time domain signals of body angular velocity in standard deviation value on the x axis  
+
+25. time domain signals of body angular velocity in standard deviation value on the y axis  
+
+26. time domain signals of body angular velocity in standard deviation value on the z axis  
+
+27. time domain signals of body angular velocity jerk in mean value on the x axis     
+
+28. time domain signals of body angular velocity jerk in mean value on the y axis
+
+29. time domain signals of body angular velocity jerk in mean value on the z axis
+
+30. time domain signals of body angular velocity jerk in standard deviation value on the x axis 
+
+31. time domain signals of body angular velocity jerk in standard deviation value on the y axis 
+
+32. time domain signals of body angular velocity jerk in standard deviation value on the z axis 
+
+33. time domain signals of body acceleration magnitude in mean value    
+
+34. time domain signals of body acceleration magnitude in standard deviation value              
+
+35. time domain signals of gravity acceleration  magnitude in mean value
+
+36. time domain signals of gravity acceleration  magnitude in standard deviation value          
+
+37. time domain signals of body acceleration jerk magnitude in mean value      
+
+38. time domain signals of body acceleration jerk magnitude in standard deviation value         
+
+39. time domain signals of body angular velocity magnitude in mean value
+
+40. time domain signals of body angular velocity magnitude in standard deviation value          
+
+41. time domain signals of body angular velocity jerk magnitude in mean value  
+
+42. time domain signals of body angular velocity jerk magnitude in standard deviation value     
+
+43. frequency domain signals of body acceleration in mean value on the x axis  
+
+44. frequency domain signals of body acceleration in mean value on the y axis  
+
+45. frequency domain signals of body acceleration in mean value on the z axis  
+
+46. frequency domain signals of body acceleration in standard deviation value on the x axis     
+
+47. frequency domain signals of body acceleration in standard deviation value on the y axis     
+
+48. frequency domain signals of body acceleration in standard deviation value on the z axis     
+
+49. frequency domain signals of body acceleration jerk in mean value on the x axis              
+
+50. frequency domain signals of body acceleration jerk in mean value on the y axis              
+
+51. frequency domain signals of body acceleration jerk in mean value on the z axis              
+
+52. frequency domain signals of body acceleration jerk in standard deviation value on the x axis
+
+53. frequency domain signals of body acceleration jerk in standard deviation value on the y axis
+
+54. frequency domain signals of body acceleration jerk in standard deviation value on the z axis
+
+55. frequency domain signals of body angular velocity in mean value on the x axis               
+
+56. frequency domain signals of body angular velocity in mean value on the y axis               
+
+57. frequency domain signals of body angular velocity in mean value on the z axis               
+
+58. frequency domain signals of body angular velocity in standard deviation value on the x axis 
+
+59. frequency domain signals of body angular velocity in standard deviation value on the y axis 
+
+60. frequency domain signals of body angular velocity in standard deviation value on the z axis
+
+61. frequency domain signals of body acceleration magnitude in mean value      
+
+62. frequency domain signals of body acceleration magnitude in standard deviation value         
+
+63. frequency domain signals of body acceleration jerk magnitude in mean value 
+
+64. frequency domain signals of body acceleration jerk magnitude in standard deviation value    
+
+65. frequency domain signals of body angular velocity magnitude in mean value  
+
+66. frequency domain signals of body angular velocity magnitude in standard deviation value     
+
+67. frequency domain signals of body angular velocity jerk magnitude in mean value 
+
+68. frequency domain signals of body angular velocity jerk magnitude in standard deviation value
+
+
+
+
+
